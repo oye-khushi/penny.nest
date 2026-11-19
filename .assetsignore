@@ -1,0 +1,9 @@
+*.ts
+*.sql
+*.json
+*.toml
+*.md
+node_modules
+bun.lock
+bun.lockb
+.assetsignore
